@@ -68,9 +68,13 @@ global.SONG_UP = '```يتم رفع الاغنيه الى السيرفر لحظه
 global.NUMBER_212_BLOCK = 'true'
 //👇 Menu imoji 
 global.MENU_IMOJI = '👸|🪄'
-//👇 Your time zone ( 8:07 )
-global.TIME_ZONE = process.env.TIME_ZONE || 'Africa/Egypt'
+//👇 Your time zone ( use correct time zone )
+
+global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
+
 //👇 Removebg Api key
+
+
 global.REMOVE_BG_API = ''
 //👇 Pron Video Download 
 global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'true'
